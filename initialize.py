@@ -8,6 +8,7 @@ class initialize_firestore:
 
     def initialize_firestore(self):
             # Use a service account
+            # get's my hidden json file information and links the project up to my database
             cred = credentials.Certificate('hello-world-plus-my-files-lol-firebase-adminsdk-vqbze-48919c460d.json')
             firebase_admin.initialize_app(cred, {'projectID': 'hello-world-plus-my-files-lol'})
 

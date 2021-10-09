@@ -19,7 +19,8 @@ class main:
         db = self.initialize.initialize_firestore()
         user_name = self.sign_in.authenticate_user()
         choice = ""
-        while choice != "0":
+
+        while choice != "0": #menu
             print()
             print("0) Exit")
             print("1) Adjust fields")
