@@ -14,9 +14,9 @@ The purpose for writing this was to gain a basic understanding of cloud database
 
 I am using Firestore's free cloud database.
 
-Collection -> Documents -> 1) Fields and 2) Collection -> Document -> Fields
-Quotes -> Quote One.. Two... Three.. etc. -> 1) Fields Quote, Speaker, and likes 2) Comments -> Unique ID for Documents -> Fields Comment Title, Comment, Submitted by (anon or signed in user), Submitted at (time).
-Some documents don't have the comments collection after it because that is auto-generated when the user adds a comment. If there is already a comment collection the program will not create another collection but will add another document with the comments fields.
+* Collection -> Documents -> 1) Fields and 2) Collection -> Document -> Fields
+* Quotes -> Quote One.. Two... Three.. etc. -> 1) Fields Quote, Speaker, and likes 2) Comments -> Unique ID for Documents -> Fields Comment Title, Comment, Submitted by (anon or signed in user), Submitted at (time).
+* Some documents don't have the comments collection after it because that is auto-generated when the user adds a comment. If there is already a comment collection the program will not create another collection but will add another document with the comments fields.
 
 # Development Environment
 
