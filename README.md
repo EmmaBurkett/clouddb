@@ -20,16 +20,16 @@ Some documents don't have the comments collection after it because that is auto-
 
 # Development Environment
 
-Firestore/Firebase(https://console.firebase.google.com/u/0/project/hello-world-plus-my-files-lol/firestore/data/~2FQuotes~2FQuote%20Five~2FComments~2FkCse6l087M5Qh9c7tRdb)
-Visual Studio Code
-Python 3.9.6
-Libraries used:
-import firebase_admin
-from   firebase_admin import credentials - utilizes the auto-generated json file from firestore
-from   firebase_admin import firestore - finds my files on firestore
-from   firebase_admin import auth - finds people with access to the database and their corresponding information (this allowed the sign in function at the start of the program)
-import json - let's python interact with a json file
-import getpass - hides passwords
+* Firestore/Firebase(https://console.firebase.google.com/u/0/project/hello-world-plus-my-files-lol/firestore/data/~2FQuotes~2FQuote%20Five~2FComments~2FkCse6l087M5Qh9c7tRdb)
+* Visual Studio Code
+* Python 3.9.6
+## Libraries used:
+* import firebase_admin
+* from   firebase_admin import credentials - utilizes the auto-generated json file from firestore
+* from   firebase_admin import firestore - finds my files on firestore
+* from   firebase_admin import auth - finds people with access to the database and their corresponding information (this allowed the sign in function at the start of the program)
+* import json - let's python interact with a json file
+* import getpass - hides passwords
 
 # Useful Websites
 
