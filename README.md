@@ -33,14 +33,12 @@ Some documents don't have the comments collection after it because that is auto-
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Firestore/Firebase](https://firebase.google.com/)
 * [Slack](https://stackoverflow.com/)
 
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Ability to view the comments
 * Admin privileges to specific users only
 * Admin should be able to delete comments
