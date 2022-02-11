@@ -6,8 +6,6 @@ My program is a database of quotes - you can remove quotes, replace quotes, repl
 
 The purpose for writing this was to gain a basic understanding of cloud databases, and a sufficient pool of resources on the topic so that I can learn more on my own - without outside help.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
 [Software Demo Video](https://youtu.be/Rr2h07cbfL0e)
 
 # Cloud Database
